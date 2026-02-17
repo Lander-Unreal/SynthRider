@@ -1,6 +1,4 @@
-Team Gormless' entry to Absurd Aspect Ratio Jam 2016.
-
-[itch.io](https://teamgormless.itch.io/synthrider-absurd-aspect-ratio-jam-2016)
+[Team Gormless' entry to Absurd Aspect Ratio Jam 2016](https://teamgormless.itch.io/synthrider-absurd-aspect-ratio-jam-2016)
 
 ![aspect](captures/aspect.gif)
 ![action](captures/action.gif)
